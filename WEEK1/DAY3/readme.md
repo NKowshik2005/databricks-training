@@ -64,3 +64,29 @@ Week1/
     ├── joins_data.sql
     ├── day3_joins_queries.sql
     └── output.md
+```
+
+---
+
+# 💡 Key Learnings
+
+- Learned how tables are connected using keys
+- Practiced combining data from multiple tables
+- Improved understanding of SQL JOIN operations
+- Learned how to retrieve matched and unmatched records
+- Improved SQL problem-solving skills
+
+---
+
+# 🔥 Platforms Used
+
+- DB Fiddle
+- GitHub
+- SQL Practice Queries
+- YouTube SQL Tutorials
+
+---
+
+# ✅ Status
+
+Completed Day 3 SQL JOINs practice and uploaded all practice files to GitHub.
