@@ -1,38 +1,60 @@
-# 🚀 Week 1 - Day 2 SQL Query Practice
+# 🚀 Week 1 - Day 2 SQL Queries & Operators Practice
 
 ---
 
 ## 📌 What I Learned Today
 
-Today I practiced SQL query writing using an Employees dataset in MySQL as part of my Data Engineering learning journey.
+Today I focused on improving my SQL query writing skills by practicing different filtering conditions, operators, grouping, and aggregate functions.
 
 The session focused on:
 
-- Writing SELECT queries
-- Filtering records using WHERE clause
-- Using comparison operators
-- Applying logical operators
-- Using aggregate functions
-- Grouping data using GROUP BY
-- Filtering grouped data using HAVING
-- Sorting and limiting results
-- Finding distinct values
-- Pattern matching using LIKE
-- Using IN, NOT IN, and BETWEEN operators
+- Writing SQL queries
+- Filtering records using conditions
+- Using logical and comparison operators
+- Aggregate functions
+- Grouping records
+- Pattern matching queries
 
 ---
 
-## 📚 Topics Covered
+# 📚 Topics Covered
 
-### SQL Query Basics
+## SQL Query Practice
 
 - SELECT
 - WHERE
-- DISTINCT
 - ORDER BY
+- DISTINCT
 - LIMIT
 
-### Aggregate Functions
+---
+
+## SQL Operators
+
+### Comparison Operators
+
+- =
+- >
+- <
+- >=
+- <=
+- !=
+
+### Logical Operators
+
+- AND
+- OR
+- NOT
+
+### Special Operators
+
+- BETWEEN
+- IN
+- LIKE
+
+---
+
+## Aggregate Functions
 
 - COUNT()
 - AVG()
@@ -40,87 +62,32 @@ The session focused on:
 - MIN()
 - SUM()
 
-### Grouping & Filtering
+---
+
+## Grouping & Filtering
 
 - GROUP BY
 - HAVING
-
-### Operators Practiced
-
-#### Comparison Operators
-
-- `>`
-- `<`
-- `=`
-- `>=`
-- `<=`
-- `<>`
-
-#### Logical Operators
-
-- AND
-- OR
-- NOT
-
-#### Special Operators
-
-- IN
-- NOT IN
-- BETWEEN
-- NOT BETWEEN
-- LIKE
+- Conditional filtering
 
 ---
 
-## 🛠 Practice Files
+# 🛠 Practice Files
 
 | File Name | Description |
-|---|---|
-| `datacreation.sql` | Employee table creation and sample data |
-| `select_queries.sql` | SELECT and filtering queries |
-| `groupby_having.sql` | GROUP BY and HAVING practice queries |
-| `operators_practice.sql` | Comparison and logical operator queries |
-| `like_between_in.sql` | LIKE, BETWEEN, IN, NOT IN queries |
-| `top_limit_queries.sql` | ORDER BY and LIMIT practice |
+|-----------|-------------|
+| `data.sql` | Dataset creation and sample records |
+| `day2_queries.sql` | SQL query practice file |
+| `output.md` | Query outputs and results |
 
 ---
 
-## 📂 Folder Structure
+# 📂 Folder Structure
 
 ```text
 Week1/
-└── Day2_SQL_Query_Practice/
+└── DAY2/
     ├── README.md
-    ├── datacreation.sql
-    ├── sql-queries.sql
-    └── outputs/
-```
-
----
-
-## 💡 Key Learnings
-
-- Practiced writing SQL queries using real datasets
-- Improved filtering using WHERE conditions
-- Learned grouping records using GROUP BY
-- Used HAVING to filter grouped data
-- Practiced aggregate functions on employee data
-- Understood sorting using ORDER BY and LIMIT
-- Learned pattern matching using LIKE
-- Improved confidence in writing SQL conditions and operators
-
----
-
-## 🔥 Platforms Used
-
-- MySQL
-- DB Fiddle
-- GitHub
-- SQL Practice Sessions
-- YouTube SQL Tutorials
-
----
-
-## ✅ Status
-
-Completed Day 2 SQL Query Practice and uploaded all practice files to GitHub.
+    ├── data.sql
+    ├── day2_queries.sql
+    └── output.md
