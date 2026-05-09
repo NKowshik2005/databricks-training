@@ -1,78 +1,85 @@
-Questions:
+🚀 Week 1 - Day 2 SQL Query Practice
+📌 What I Learned Today
 
+Today I practiced SQL query writing using an Employees dataset in MySQL as part of my Data Engineering learning journey.
+
+The session focused on:
+
+Writing SELECT queries
+Filtering records using WHERE clause
+Using comparison operators
+Applying logical operators
+Using aggregate functions
+Grouping data using GROUP BY
+Filtering grouped data using HAVING
+Sorting and limiting results
+Finding distinct values
+Pattern matching using LIKE
+Using IN, NOT IN, and BETWEEN operators
+📚 Topics Covered
+SQL Query Basics
 SELECT
-Display all employee details.
-Display only employee names and salaries.
-Display employee names and departments.
-Display all employees from the IT department.
-Display employee names and experience.
-
 WHERE
-Find employees with salary greater than 70000.
-Find employees working in Hyderabad.
-Find employees with experience less than 4 years.
-Find employees from Finance department.
-Find employees whose salary is equal to 52000.
-
-GROUP BY
-Find total salary department-wise.
-Find average salary in each department.
-Count employees in each city.
-Find maximum salary in each department.
-Find minimum experience department-wise.
-
-HAVING
-Find departments having more than 3 employees.
-Find departments where average salary is greater than 60000.
-Find cities having more than 2 employees.
-Find departments where total salary is greater than 200000.
-Find departments where maximum salary is above 90000.
-
-TOP
-Display top 5 highest paid employees.
-Display top 3 employees with highest experience.
-Display top 2 salaries from Finance department.
-Display top 4 employees from Hyderabad.
-Display top 1 highest salary employee.
-
 DISTINCT
-Display distinct department names.
-Display distinct city names.
-Display distinct salary values.
-Display distinct combinations of department and city.
-Display distinct experience values.
-
-COMPARISON OPERATORS
-Find employees with salary >= 80000.
-Find employees with experience <= 3.
-Find employees whose salary <> 45000.
-Find employees with salary < 50000.
-Find employees with experience > 5.
-
-LOGICAL OPERATORS
-Find employees from IT department AND salary greater than 70000.
-Find employees from Hyderabad OR Bangalore.
-Find employees from HR department AND experience less than 3.
-Find employees with salary greater than 60000 OR experience greater than 6.
-Find employees NOT from Sales department.
-
-IN AND NOT IN
-Find employees working in ('Hyderabad', 'Mumbai').
-Find employees whose department IN ('IT', 'Finance').
-Find employees whose city NOT IN ('Chennai', 'Pune').
-Find employees whose salary IN (45000, 75000, 91000).
-Find employees whose department NOT IN ('HR', 'Sales').
-
+ORDER BY
+LIMIT
+Aggregate Functions
+COUNT()
+AVG()
+MAX()
+MIN()
+SUM()
+Grouping & Filtering
+GROUP BY
+HAVING
+Operators Practiced
+Comparison Operators
+>
+<
+=
+>=
+<=
+<>
+Logical Operators
+AND
+OR
+NOT
+Special Operators
+IN
+NOT IN
 BETWEEN
-Find employees with salary BETWEEN 50000 AND 80000.
-Find employees with experience BETWEEN 3 AND 6.
-Find employees whose emp_id BETWEEN 105 AND 112.
-Find employees with salary NOT BETWEEN 40000 AND 60000.
-Find employees with experience BETWEEN 2 AND 4.
+NOT BETWEEN
+LIKE
+🛠 Practice Files
+File Name	Description
+datacreation.sql	Employee table creation and sample data
+select_queries.sql	SELECT and filtering queries
+groupby_having.sql	GROUP BY and HAVING practice queries
+operators_practice.sql	Comparison and logical operator queries
+like_between_in.sql	LIKE, BETWEEN, IN, NOT IN queries
+top_limit_queries.sql	ORDER BY and LIMIT practice
+📂 Folder Structure
+Week1/
+└── Day2_SQL_Query_Practice/
+    ├── README.md
+    ├── datacreation.sql
+    ├── sql-queries.sql
+    ├── outputs
+💡 Key Learnings
+Practiced writing SQL queries using real datasets
+Improved filtering using WHERE conditions
+Learned grouping records using GROUP BY
+Used HAVING to filter grouped data
+Practiced aggregate functions on employee data
+Understood sorting using ORDER BY and LIMIT
+Learned pattern matching using LIKE
+Improved confidence in writing SQL conditions and operators
+🔥 Platforms Used
+MySQL
+DB Fiddle
+GitHub
+SQL Practice Sessions
+YouTube SQL Tutorials
+✅ Status
 
-LIKE OPERATOR
-Find employees whose names start with 'R'.
-Find employees whose names end with 'a'.
-Find employees whose names contain 'v'.
-Find employees whose city starts with 'B'.
-Find employees whose department ends with 's'.
+Completed Day 2 SQL Query Practice and uploaded all practice files to GitHub.
