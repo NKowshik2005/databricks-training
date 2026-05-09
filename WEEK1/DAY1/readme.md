@@ -68,3 +68,16 @@ Week1/
     ├── datacreation.sql
     ├── day1_queries.sql
     └── outputs.md
+    💡 Key Learnings
+Learned how relational databases work
+Understood table creation and data insertion
+Practiced retrieving filtered data
+Learned aggregate functions for data analysis
+Improved confidence in writing SQL queries
+🔥 Platforms Used
+DB Fiddle
+GitHub
+SQL YouTube Playlist
+✅ Status
+
+Completed Day 1 Database Creation & SQL Basics practice and uploaded all practice files to GitHub.
