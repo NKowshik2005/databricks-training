@@ -91,3 +91,29 @@ Week1/
     ├── data.sql
     ├── day2_queries.sql
     └── output.md
+```
+
+---
+
+# 💡 Key Learnings
+
+- Improved SQL query writing skills
+- Learned advanced filtering techniques
+- Practiced grouping and aggregate functions
+- Understood SQL operators and conditions
+- Improved confidence in handling datasets
+
+---
+
+# 🔥 Platforms Used
+
+- DB Fiddle
+- GitHub
+- SQL Practice Sheets
+- YouTube Tutorials
+
+---
+
+# ✅ Status
+
+Completed Day 2 SQL Queries & Operators practice and uploaded all practice files to GitHub.
