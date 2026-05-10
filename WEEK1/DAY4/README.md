@@ -72,10 +72,10 @@ The session focused on:
 ```text
 Week1/
 └── Day4_SQL_Window_Functions_CTE/
+    ├── README.md
     ├── day4_functions_queries.sql
     ├── functions_data.sql
-    ├── outputs.md
-    └── README.md
+    └── outputs.md
 ```
 
 ---
