@@ -1,4 +1,4 @@
-**Schema (MySQL v5.7)**
+**Schema (MySQL v8)**
 
     
     -- SQL Joins Assignment Starter File
@@ -75,7 +75,6 @@
     -- Courses 103 and 105 have no instructor assigned.
     -- Courses 103 and 105 also have no enrollments.
     -- Instructor 4 teaches one course.
-    
 
 ---
 
@@ -186,8 +185,8 @@
 
 | student_name  | enrollment_id | course_id |
 | ------------- | ------------- | --------- |
-| Alice Johnson | 1             | 101       |
 | Alice Johnson | 2             | 102       |
+| Alice Johnson | 1             | 101       |
 | Bob Smith     | 3             | 101       |
 | Charlie Brown | 4             | 104       |
 | Diana Prince  | 5             | 106       |
@@ -249,8 +248,8 @@
 
 | student_name  | course_name         | instructor_name |
 | ------------- | ------------------- | --------------- |
-| Alice Johnson | SQL Basics          | Sarah Connor    |
 | Alice Johnson | Python Fundamentals | Michael Scott   |
+| Alice Johnson | SQL Basics          | Sarah Connor    |
 | Bob Smith     | SQL Basics          | Sarah Connor    |
 | Charlie Brown | Cloud Computing     | Tony Stark      |
 | Diana Prince  | Cyber Security      | Bruce Wayne     |
@@ -266,42 +265,42 @@
 
 | student_name  | course_name         |
 | ------------- | ------------------- |
-| Alice Johnson | SQL Basics          |
-| Bob Smith     | SQL Basics          |
-| Charlie Brown | SQL Basics          |
-| Diana Prince  | SQL Basics          |
-| Ethan Hunt    | SQL Basics          |
 | Fiona Green   | SQL Basics          |
-| Alice Johnson | Python Fundamentals |
-| Bob Smith     | Python Fundamentals |
-| Charlie Brown | Python Fundamentals |
-| Diana Prince  | Python Fundamentals |
-| Ethan Hunt    | Python Fundamentals |
+| Ethan Hunt    | SQL Basics          |
+| Diana Prince  | SQL Basics          |
+| Charlie Brown | SQL Basics          |
+| Bob Smith     | SQL Basics          |
+| Alice Johnson | SQL Basics          |
 | Fiona Green   | Python Fundamentals |
-| Alice Johnson | Data Analytics      |
-| Bob Smith     | Data Analytics      |
-| Charlie Brown | Data Analytics      |
-| Diana Prince  | Data Analytics      |
-| Ethan Hunt    | Data Analytics      |
+| Ethan Hunt    | Python Fundamentals |
+| Diana Prince  | Python Fundamentals |
+| Charlie Brown | Python Fundamentals |
+| Bob Smith     | Python Fundamentals |
+| Alice Johnson | Python Fundamentals |
 | Fiona Green   | Data Analytics      |
-| Alice Johnson | Cloud Computing     |
-| Bob Smith     | Cloud Computing     |
-| Charlie Brown | Cloud Computing     |
-| Diana Prince  | Cloud Computing     |
-| Ethan Hunt    | Cloud Computing     |
+| Ethan Hunt    | Data Analytics      |
+| Diana Prince  | Data Analytics      |
+| Charlie Brown | Data Analytics      |
+| Bob Smith     | Data Analytics      |
+| Alice Johnson | Data Analytics      |
 | Fiona Green   | Cloud Computing     |
-| Alice Johnson | Machine Learning    |
-| Bob Smith     | Machine Learning    |
-| Charlie Brown | Machine Learning    |
-| Diana Prince  | Machine Learning    |
-| Ethan Hunt    | Machine Learning    |
+| Ethan Hunt    | Cloud Computing     |
+| Diana Prince  | Cloud Computing     |
+| Charlie Brown | Cloud Computing     |
+| Bob Smith     | Cloud Computing     |
+| Alice Johnson | Cloud Computing     |
 | Fiona Green   | Machine Learning    |
-| Alice Johnson | Cyber Security      |
-| Bob Smith     | Cyber Security      |
-| Charlie Brown | Cyber Security      |
-| Diana Prince  | Cyber Security      |
-| Ethan Hunt    | Cyber Security      |
+| Ethan Hunt    | Machine Learning    |
+| Diana Prince  | Machine Learning    |
+| Charlie Brown | Machine Learning    |
+| Bob Smith     | Machine Learning    |
+| Alice Johnson | Machine Learning    |
 | Fiona Green   | Cyber Security      |
+| Ethan Hunt    | Cyber Security      |
+| Diana Prince  | Cyber Security      |
+| Charlie Brown | Cyber Security      |
+| Bob Smith     | Cyber Security      |
+| Alice Johnson | Cyber Security      |
 
 ---
 
