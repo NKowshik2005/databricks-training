@@ -64,10 +64,10 @@ The session focused on:
 ```text
 Week1/
 └── DAY1/
+    ├── README.md
     ├── datacreation.sql
     ├── day1_queries.sql
-    ├── outputs.md 
-    └── README.md
+    └── outputs.md
 ```
 
 ---
