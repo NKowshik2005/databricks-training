@@ -60,10 +60,10 @@ The session focused on:
 ```text
 Week1/
 └── DAY3/
+    ├── README.md
     ├── day3_joins_queries.sql
     ├── joins_data.sql
-    ├── output.md
-    └── README.md
+    └── output.md
 ```
 
 ---
