@@ -1,2 +1,11 @@
-# databricks-training
-This repository showcases my Data Engineering journey, from SQL fundamentals to scalable ETL pipelines. It includes hands-on projects using PySpark and Databricks, covering data cleaning, ETL workflows, advanced SQL queries, and window functions for efficient data processing
+# 🚀 Databricks Training Repository
+
+SQL · PostgreSQL · MySQL · Data Engineering · Databricks
+
+---
+
+## 📌 About
+
+This repository contains my practical learning journey in Data Engineering through daily hands-on exercises, SQL practice, and database concepts.
+
+The repository is maintained as part of my continuous learning and skill development in SQL, Databricks, and data-related technologies.
