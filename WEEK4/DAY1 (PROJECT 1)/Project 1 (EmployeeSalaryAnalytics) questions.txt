@@ -1,0 +1,24 @@
+PROJECT 1 : EMPLOYEE SALARY ANALYTICS
+
+1. Find Top 3 Highest Salaries Department-wise.
+
+2. Find Average Salary City-wise.
+
+3. Categorize Employees into Salary Bands:
+   - High Salary
+   - Medium Salary
+   - Low Salary
+
+4. Generate Yearly Salary Report.
+
+5. Find Employees Earning Above Department Average Salary.
+
+6. Find Highest Paid Employee in Each Department.
+
+7. Find Lowest Paid Employee in Each Department.
+
+8. Calculate Total Salary Department-wise.
+
+9. Calculate Average Salary Department-wise.
+
+10. Generate Department-wise Employee Count Report.

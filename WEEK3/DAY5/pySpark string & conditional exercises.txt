@@ -1,0 +1,103 @@
+# Week 3 - Day 5 PySpark String & Conditional Transformations
+
+## SPLIT()
+
+1. Split designation into separate words.
+2. Split city names using a delimiter.
+3. Extract first word from designation.
+4. Count number of words in designation.
+5. Create an array column using split().
+
+---
+
+## CONCAT()
+
+1. Concatenate employee name and city.
+2. Concatenate designation and department.
+3. Create employee profile using multiple columns.
+4. Concatenate city and gender.
+5. Create a combined employee identifier.
+
+---
+
+## LIT()
+
+1. Add company_name column with constant value.
+2. Add country column with value "India".
+3. Add bonus_percentage column.
+4. Add status column.
+5. Add training_batch column.
+
+---
+
+## WHEN()
+
+1. Create salary_category column.
+2. Create age_group column.
+3. Create experience_status column.
+4. Create department_type column.
+5. Create bonus_eligibility column.
+
+---
+
+## SUBSTRING()
+
+1. Extract first 3 characters from employee name.
+2. Extract first 2 characters from department.
+3. Extract last characters from city.
+4. Extract year from joining_date.
+5. Extract partial designation.
+
+---
+
+## REGEXP_REPLACE()
+
+1. Remove spaces from employee name.
+2. Replace vowels in city names.
+3. Remove special characters.
+4. Replace selected words in designation.
+5. Standardize department names.
+
+---
+
+## LIKE()
+
+1. Find employees whose name starts with 'S'.
+2. Find employees whose city contains 'a'.
+3. Find employees whose designation ends with 'r'.
+4. Find employees whose department starts with 'A'.
+5. Find employees whose city starts with 'H'.
+
+---
+
+## ISIN()
+
+1. Employees from Hyderabad and Bangalore.
+2. Employees from IT and HR departments.
+3. Employees with selected designations.
+4. Employees from selected cities.
+5. Employees belonging to multiple departments.
+
+---
+
+## BETWEEN()
+
+1. Employees with salary between 50000 and 80000.
+2. Employees aged between 25 and 30.
+3. Employees with salary between 70000 and 100000.
+4. Employees joined between specific years.
+5. Employees within selected age range.
+
+---
+
+## EXPLODE()
+
+1. Create array column and explode it.
+2. Split designation and explode.
+3. Create skill array and explode.
+4. Explode department arrays.
+5. Explode multiple sample values.
+
+---
+
+Total Questions: 50

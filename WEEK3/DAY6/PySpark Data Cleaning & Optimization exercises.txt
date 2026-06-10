@@ -1,0 +1,103 @@
+# Week 3 - Day 6 PySpark Data Cleaning & Optimization
+
+## FILLNA()
+
+1. Replace NULL salary values with 0.
+2. Replace NULL city values with "Unknown".
+3. Replace NULL department values with "NA".
+4. Replace NULL age values with 18.
+5. Replace multiple NULL columns using fillna().
+
+---
+
+## NA.FILL()
+
+1. Fill missing salary values.
+2. Fill missing city values.
+3. Fill missing department values.
+4. Fill missing age values.
+5. Fill multiple columns simultaneously.
+
+---
+
+## NA.DROP()
+
+1. Remove rows containing NULL values.
+2. Remove rows with NULL salary.
+3. Remove rows with NULL city.
+4. Remove rows with at least two NULL values.
+5. Remove rows with NULL department.
+
+---
+
+## REPLACE()
+
+1. Replace IT with Technology.
+2. Replace HR with Human Resources.
+3. Replace Hyderabad with HYD.
+4. Replace Bangalore with BLR.
+5. Replace multiple values simultaneously.
+
+---
+
+## REPARTITION()
+
+1. Repartition DataFrame into 2 partitions.
+2. Repartition DataFrame into 4 partitions.
+3. Repartition using department column.
+4. Check number of partitions.
+5. Repartition using city column.
+
+---
+
+## COALESCE()
+
+1. Reduce partitions to 1.
+2. Reduce partitions to 2.
+3. Verify partition count after coalesce().
+4. Compare repartition() and coalesce().
+5. Optimize partition count.
+
+---
+
+## CACHE()
+
+1. Cache the employee DataFrame.
+2. Verify cache status.
+3. Perform aggregation after caching.
+4. Execute multiple actions on cached DataFrame.
+5. Remove cache using unpersist().
+
+---
+
+## PIVOT()
+
+1. Calculate average salary department-wise by gender.
+2. Calculate employee count department-wise by gender.
+3. Calculate total salary by department and gender.
+4. Create salary matrix using pivot().
+5. Create employee count matrix.
+
+---
+
+## EXPLODE_OUTER()
+
+1. Create skill array and explode_outer().
+2. Handle NULL arrays using explode_outer().
+3. Expand employee skills.
+4. Expand department arrays.
+5. Demonstrate difference between explode() and explode_outer().
+
+---
+
+## ARRAY_CONTAINS()
+
+1. Check if employee has Python skill.
+2. Check if employee has SQL skill.
+3. Filter rows containing Spark skill.
+4. Filter rows containing Java skill.
+5. Apply array_contains() on sample array column.
+
+---
+
+Total Questions: 50

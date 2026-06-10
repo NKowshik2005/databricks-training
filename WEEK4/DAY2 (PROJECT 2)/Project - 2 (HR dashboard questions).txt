@@ -1,0 +1,21 @@
+# PROJECT 2 : HR DASHBOARD
+
+1. Count Male and Female Employees.
+
+2. Find Average Age Department-wise.
+
+3. Generate Hiring Trends by Year.
+
+4. Create City-wise Employee Distribution.
+
+5. Identify Highest Paid Employees.
+
+6. Identify Lowest Paid Employees.
+
+7. Find Department-wise Employee Count.
+
+8. Find Gender-wise Average Salary.
+
+9. Find Employees Above Average Salary.
+
+10. Generate HR Summary Dashboard Report.

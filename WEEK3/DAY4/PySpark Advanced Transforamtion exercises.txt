@@ -1,0 +1,90 @@
+# Week 3 - Day 4 PySpark Advanced Transformations
+
+## DROP()
+
+1. Remove the age column from the DataFrame.
+2. Remove the gender column from the DataFrame.
+3. Remove the joining_date column from the DataFrame.
+4. Remove both city and age columns from the DataFrame.
+5. Remove the designation column from the DataFrame.
+
+---
+
+## DISTINCT()
+
+1. Display unique departments.
+2. Display unique cities.
+3. Display unique designations.
+4. Display unique genders.
+5. Display unique department and city combinations.
+
+---
+
+## DROPDUPLICATES()
+
+1. Remove duplicate records based on emp_id.
+2. Remove duplicate records based on department.
+3. Remove duplicate records based on city.
+4. Remove duplicate records based on department and city combination.
+5. Remove duplicate records based on employee name.
+
+---
+
+## GROUPBY()
+
+1. Calculate average salary for each department.
+2. Calculate maximum salary in each department.
+3. Calculate minimum age in each department.
+4. Count employees in each city.
+5. Calculate total salary for each gender.
+
+---
+
+## AGGREGATION FUNCTIONS
+
+1. Calculate total salary of all employees.
+2. Calculate average age of employees.
+3. Find maximum and minimum salary.
+4. Count total number of employees.
+5. Calculate average salary and average age department-wise.
+
+---
+
+## JOIN()
+
+1. Perform Inner Join between employee and department DataFrames.
+2. Perform Left Join between employee and department DataFrames.
+3. Perform Right Join between employee and department DataFrames.
+4. Perform Full Outer Join between employee and department DataFrames.
+5. Display employee name along with manager name using Join.
+
+---
+
+## UNION()
+
+1. Combine employee DataFrames using union().
+2. Count total records after union.
+3. Remove duplicate records after union.
+4. Display IT department employees after union.
+5. Sort unioned data by salary in descending order.
+
+---
+
+## UNIONBYNAME()
+
+1. Combine DataFrames using unionByName().
+2. Count total records after unionByName().
+3. Remove duplicate records after unionByName().
+4. Display Analytics department employees after unionByName().
+5. Sort data by salary in descending order after unionByName().
+
+---
+
+## SAMPLE()
+
+1. Display 50% sample data from the DataFrame.
+2. Display 30% sample data using seed value.
+3. Display 50% sample data from IT department employees.
+4. Compare original count and sampled count.
+5. Display 20% random sample data.
+

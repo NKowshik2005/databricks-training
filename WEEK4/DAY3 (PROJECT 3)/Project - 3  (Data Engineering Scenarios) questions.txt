@@ -1,0 +1,21 @@
+# PROJECT 3 : DATA ENGINEERING SCENARIOS
+
+1. Remove duplicate employee records.
+
+2. Handle missing values in employee data.
+
+3. Standardize department names.
+
+4. Join employee and department datasets.
+
+5. Generate department-wise employee summary.
+
+6. Calculate average salary by department.
+
+7. Create salary categories.
+
+8. Optimize data using repartition().
+
+9. Cache frequently used DataFrames.
+
+10. Generate final business summary report.
