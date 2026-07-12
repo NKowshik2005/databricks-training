@@ -1,0 +1,21 @@
+employee_id,name,age,department,salary,city,experience,status
+101,Aadhvik Rao,24,Data Engineering,68000,Bengaluru,2,Active
+102,Ishani Mehta,31,HR,55000,Mumbai,7,Active
+103,Vihaan Kapoor,29,Finance,72000,Delhi,5,Inactive
+104,Myra Nair,35,Data Engineering,98000,Hyderabad,10,Active
+105,Rudra Sen,27,Marketing,47000,Kolkata,3,Active
+106,Kiara Thomas,40,Finance,120000,Chennai,15,Active
+107,Reyansh Gupta,26,IT,65000,Pune,4,Inactive
+108,Anika Reddy,38,HR,87000,Hyderabad,12,Active
+109,Vivaan Joseph,23,IT,52000,Kochi,1,Active
+110,Tara Malhotra,33,Marketing,76000,Jaipur,8,Inactive
+111,Nivaan Iyer,45,Data Engineering,135000,Bengaluru,20,Active
+112,Saanvi Das,30,Finance,81000,Bhubaneswar,6,Active
+113,Arjun Pillai,28,IT,59000,Chennai,5,Inactive
+114,Zoya Khanna,37,Research,91000,Noida,11,Active
+115,Daksh Verma,25,Support,43000,Lucknow,2,Active
+116,Meher Ali,32,Research,89000,Mumbai,9,Inactive
+117,Yuvan Sharma,41,Management,150000,Gurugram,17,Active
+118,Ira Banerjee,29,Support,51000,Kolkata,4,Active
+119,Kabir Anand,,Finance,99000,Delhi,8,Active
+120,Navya Bhat,27,,61000,Bengaluru,3,Inactive
